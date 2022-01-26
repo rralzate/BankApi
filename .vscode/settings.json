@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/be830cbc-c74d-4aea-8cb7-ae94373ac000/resourceGroups/Grupo-FecurityPruebas/providers/Microsoft.Web/sites/fecuritywebapipruebas",
+    "appService.deploySubpath": "."
+}
